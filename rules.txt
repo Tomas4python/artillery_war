@@ -1,0 +1,56 @@
+
+                  --------------------------------------------------------
+                  ## ARTILLERY WAR, 21st CENTURY, EASTERN FRONT, EUROPE ##
+                  --------------------------------------------------------
+
+## INTRODUCTION ##
+
+Step into the violent conflict unfolding in Eastern Europe as an experienced artillery battery commander or a newly appointed cadet. The god of war, Artillery, is the decisive factor in this ongoing strife, and your decisions will reverberate through the battlefield and beyond.
+
+Your choices won't just dictate your fate - they'll influence future generations and the face of a nation. As a 'Defender', your fight is for family, homeland, dignity, freedom, and the rule of law. But as an 'Intruder', you are the face of an empire's relentless expansion, a force determined to seize control at the cost of innocent lives.
+
+Twenty percent of the country is under occupation. With each battle in the game, another two percent of the land stands to be lost or reclaimed. Your objective is simple: destroy the enemy's artillery or exhaust their ammunition to claim victory. But remember, the path to victory requires both strategy and precision.
+
+
+## GAME SETUP ##
+
+Depending on the difficulty level you select ('easy', 'medium', or 'hard'), you'll command different numbers of units and amounts of ammunition. Here's how it breaks down:
+
+Total Units and Ammunition in the War:
+
+Level     | Defender Units/Ammo | Intruder Units/Ammo
+'easy'    |         10/100      |       30/300
+'medium'  |         20/200      |       60/600
+'hard'    |         30/300      |       90/900
+
+Units and Ammunition Per Battle:
+
+Level     | Defender Units/Ammo | Intruder Units/Ammo
+'easy'    |         1/10        |       3/30
+'medium'  |         2/20        |       6/60
+'hard'    |         3/30        |       9/90
+
+As the 'Intruder', superior firepower is at your disposal. But don't grow complacent; challenges such as defective weaponry, inferior intelligence, low accuracy, lack of discipline and corruption in the higher ranks may hinder your progress. Moreover, due to low morale and discipline, your forces may abandon ammunition or leave slightly damaged artillery behind. The neglect of artillery or the quality of the shells could even lead to artillery failure.
+
+Conversely, as a 'Defender', you may not have as much firepower, but your forces exhibit high levels of responsibility. Slightly damaged (less than 50%) artillery could be repaired, and remaining ammunition may be scavenged from the battlefield. But beware, excessive damage could lead to your forces withdrawing from the war.
+
+
+## HOW TO PLAY ##
+
+A game battle concludes either when all units have been wiped out, when the ammunition supplies are entirely depleted or destroyed, or when a particularly high amount of damage has been done. An artillery gun is deemed irrevocably dysfunctional and is lost when it suffers damage equal to or more than 50%, or when it exhausts its ammunition. The game progresses in a series of such battles until all units have been decimated, or the reserves of ammunition have been exhausted, or you are incapacitated by the damage you have sustained.
+
+Triumph hinges on mastering the art of calculation. To devise an optimal tactics, consider factors such as distance, map direction, wind direction, and wind speed, the latter being the sum of the base wind speed and the average gust speed. The compass shows North (yellow arrow) and the more accurate one also shows the direction of the wind (white arrow).
+
+To fire a shot, follow these steps:
+- Set the 'elevation' of your artillery gun barrel.
+- Set the 'azimuth', or the directional orientation of your gun barrel (take the map direction into account! The compass angles are measured clockwise).
+- Set the 'charge', or the propellant charge (1 charge at 45 degrees without wind impact shoots the round 5 km distance).
+Use your drone view or radar map to adjust your shots. The radar map provides a reasonably accurate position of artillery units but isn't precise about the shell explosion location. Note that the 'Intruder' may not have access to a drone, the radar at his disposal is not that accurate.
+
+Remember, you're equipped with 155 mm M777 howitzers if you're the Defender, and 152 mm 2A65 howitzers if you're the Intruder. The Intruder has two options for deploying artillery units:
+- In a linear formation, consistent with traditional Soviet artillery doctrine, or
+- In a randomized pattern, aligning with modern NATO flexible deployment strategies.
+
+Prepare for the battle ahead, and may the best commander emerge victorious!
+
+                  --------------------------------------------------------
