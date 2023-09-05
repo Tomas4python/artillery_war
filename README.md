@@ -1,0 +1,2 @@
+# artillery_war
+ARTILLERY WAR, 21ST CENTURY, EASTERN FRONT, EUROPE - python game
