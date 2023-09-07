@@ -1,0 +1,6 @@
+Update from v1.00 to v1.01
+
+- the dark mode was set from the welcome screen moment to keep welcome screen dark in Windows light mode;
+- moved up 'Enter the Battle #*'' label position in menu window to not overlap with 'War report' console, if screen scaling is on;
+- made adjustments for console position if 1920x1080 resolution and screen scale is used;
+- related comment added to about.txt.

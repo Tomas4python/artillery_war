@@ -16,9 +16,7 @@ class Radar:
         
         self.situation_report = situation_report_reference
 
-        # Set dark mode for console frame
-        ctk.set_appearance_mode("dark")  # Available modes: system (default), light, dark
-
+        # Create a new Toplevel window for radar
         self.radar_window = ctk.CTkToplevel(root)
         self.radar_window.attributes('-fullscreen', True)
 

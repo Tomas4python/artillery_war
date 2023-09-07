@@ -24,6 +24,9 @@ class Game:
         if platform.system() == "Windows":
             # Set DPI Awareness
             windll.shcore.SetProcessDpiAwareness(2)
+        
+        # Set dark mode
+        ctk.set_appearance_mode("dark")  # Available modes: system (default), light, dark
 
         # Create main window for app, start screen and menu
         self.root = ctk.CTk()
@@ -205,7 +208,7 @@ class Game:
     def choose_easy(self):
         Settings.level = 'easy'
         self.hide_all_buttons()
-        self.show_menu('settings')
+        selfBshow_menu('settings')
 
     def choose_medium(self):
         Settings.level = 'medium'

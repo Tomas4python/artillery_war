@@ -13,10 +13,7 @@ class Map:
 
     def __init__(self, root, map_image_path):
 
-        # Set dark mode for console frame
-        ctk.set_appearance_mode("dark")  # Available modes: system (default), light, dark
-
-        # Creating a new Toplevel window
+        # Create a new Toplevel window for drone view
         self.map_window = ctk.CTkToplevel(root)
         self.map_window.attributes('-fullscreen', True)
 

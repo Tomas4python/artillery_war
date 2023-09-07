@@ -73,7 +73,7 @@ class Play:
                     label.after(50, type_label_text, label, text, index+1)
 
             self.battle_no_label = ctk.CTkLabel(master=self.main.root, text="ENTER THE", fg_color="#3D5328", text_color="black", font=("Courier New", 70, "bold"), padx=15)
-            self.battle_no_label.place(relx=0.5, rely=0.15, anchor='center')
+            self.battle_no_label.place(relx=0.5, rely=0.04, anchor='center')
 
             # Setup the round
             self.weather_conditions, self.units, map_path, radar_path, self.map_direction = self.setup.round_setup()

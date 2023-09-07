@@ -30,23 +30,43 @@ class Console:
                 ctypes.windll.user32.ReleaseDC(0, hdc)
                 return round(actual_dpi / 96.0, 2)
 
-        # Get scaling factor
-        if platform.system() == "Windows":
+            # Mapping of screen_width to corrections based on scaling factors
+            corrections = {
+                2560: {
+                    '125%': (23, 60),
+                    '150%': (83, 120),
+                    'default': (10, 5)
+                },
+                1920: {
+                    '125%': (88, 105),
+                    '150%': (190, 100),
+                    'default': (8, 5)
+                },
+                'default': {
+                    '125%': (0, 0),
+                    '150%': (0, 0),
+                    'default': (0, 0)
+                }
+            }
+
             scaling_factor = get_scaling_factor()
+
+            # Determine the scaling label
             if 1.45 > scaling_factor > 1.05:
-                correction = (25, 60)
+                scale_label = '125%'
             elif 2.05 > scaling_factor > 1.44:
-                correction = (83, 120)
+                scale_label = '150%'
             else:
-                correction = (10, 5)
+                scale_label = 'default'
+
+            # Get the correction based on screen width and scaling label
+            correction = corrections.get(Settings.screen_width, corrections['default'])[scale_label]
+
         else:
             scaling_factor = 1
-            correction = (10, 5)
+            correction = (0, 0)
 
         correction_x, correction_y = correction
-
-        # Set dark mode for console frame
-        ctk.set_appearance_mode("dark")  # Available modes: system (default), light, dark
 
         # Set size of the console and place in center of the desktop
         self.screen_width = Settings.screen_width
