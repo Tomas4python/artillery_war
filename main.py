@@ -208,7 +208,7 @@ class Game:
     def choose_easy(self):
         Settings.level = 'easy'
         self.hide_all_buttons()
-        selfBshow_menu('settings')
+        self.show_menu('settings')
 
     def choose_medium(self):
         Settings.level = 'medium'

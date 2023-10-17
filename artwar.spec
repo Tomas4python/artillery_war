@@ -9,12 +9,15 @@ a = Analysis(
     pathex=[],
     binaries=[],
     datas=[
-        ('images/*', 'images'),
+        ('images/icon.ico', 'images'),
+        ('images/img_menu.png', 'images'),
+        ('images/img_start.png', 'images'),
         ('images/maps/*', 'images/maps'),
         ('images/units/*', 'images/units'),
         ('sounds/*', 'sounds'),
         ('about.txt', '.'),
         ('rules.txt', '.'),
+        ('changelog.txt', '.'),
     ],
     hiddenimports=[
         'customtkinter',
