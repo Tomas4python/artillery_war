@@ -16,8 +16,8 @@ you into the heart of fierce artillery battles on the Eastern Front.
   - `console.py` - A command interface for the player.
   - `calculations.py` - Distance and damage computations.
 - Additional Documents: `about.txt` & `rules.txt` for comprehensive game info.
-## Requirements
-
+## Requirements   
+- Best on **Windows 11**
 - **Python Version**: 3.11  
 - **Customtkinter**: 5.2.2
 - **Pillow**: 9.5.0  
