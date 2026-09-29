@@ -1,0 +1,20 @@
+Update from v1.01 to v1.02
+
+- the code was restructured into the 'artillery_war' package: game logic (core) is separated from the windows (ui);
+- the game mathematics is unchanged and protected by characterization tests; the only balance change is the damage capacity below;
+- fixed: a battle result could be counted two or three times in one turn (wins, losses and territory);
+- fixed: the 'd' key of the Invader stopped working after the first battle;
+- fixed: special characters in the rules and about texts were displayed incorrectly;
+- the field console and reports look like a rounded military tablet, without the Windows title bar;
+- the game stays responsive during a turn: report lines appear together with the sounds;
+- the drone map uses much less memory and the game starts battles faster;
+- the game runs on Linux too;
+- the drone map can be scrolled with the mouse wheel;
+- balance: the war-long damage capacity was reduced by a third (easy 333/1000, medium 667/2000, hard 1000/3000), so wars end sooner.
+
+Update from v1.00 to v1.01
+
+- the dark mode was set from the welcome screen moment to keep welcome screen dark in Windows light mode;
+- moved up 'Enter the Battle #*'' label position in menu window to not overlap with 'War report' console, if screen scaling is on;
+- made adjustments for console position if 1920x1080 resolution and screen scale is used;
+- related comment added to about.txt.

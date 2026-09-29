@@ -1,0 +1,722 @@
+[
+ [
+  "Defender",
+  -4,
+  10,
+  100,
+  -4,
+  "Tester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  -4,
+  10,
+  150,
+  6,
+  "The heavy damage inflicted by the invaders has forced your units to retreat deeper into your country. This strategic fallback, albeit necessary, results in the loss of an additional 10% of your territory.\nTester, you fought hard but wisely. You managed to halt the invaders and reclaim 14% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  -4,
+  10,
+  900,
+  6,
+  "The heavy damage inflicted by the invaders has forced your units to retreat deeper into your country. This strategic fallback, albeit necessary, results in the loss of an additional 10% of your territory.\nTester, you fought hard but wisely. You managed to halt the invaders and reclaim 14% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  -4,
+  50,
+  100,
+  -14,
+  "Your relentless artillery fire has dealt significant damage, disrupting the enemy front line and triggering a disorganized retreat. This successful operation has led to the liberation of 10% of the Homeland.\nTester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  -4,
+  50,
+  150,
+  -4,
+  "Tester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  -4,
+  50,
+  900,
+  -4,
+  "Tester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  -4,
+  400,
+  100,
+  -14,
+  "Your relentless artillery fire has dealt significant damage, disrupting the enemy front line and triggering a disorganized retreat. This successful operation has led to the liberation of 10% of the Homeland.\nTester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  -4,
+  400,
+  150,
+  -4,
+  "Tester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  -4,
+  400,
+  900,
+  -4,
+  "Tester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  0,
+  10,
+  100,
+  0,
+  "Tester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  0,
+  10,
+  150,
+  10,
+  "The heavy damage inflicted by the invaders has forced your units to retreat deeper into your country. This strategic fallback, albeit necessary, results in the loss of an additional 10% of your territory.\nTester, you fought hard but wisely. You managed to halt the invaders and reclaim 10% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  0,
+  10,
+  900,
+  10,
+  "The heavy damage inflicted by the invaders has forced your units to retreat deeper into your country. This strategic fallback, albeit necessary, results in the loss of an additional 10% of your territory.\nTester, you fought hard but wisely. You managed to halt the invaders and reclaim 10% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  0,
+  50,
+  100,
+  -10,
+  "Your relentless artillery fire has dealt significant damage, disrupting the enemy front line and triggering a disorganized retreat. This successful operation has led to the liberation of 10% of the Homeland.\nTester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  0,
+  50,
+  150,
+  0,
+  "Tester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  0,
+  50,
+  900,
+  0,
+  "Tester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  0,
+  400,
+  100,
+  -10,
+  "Your relentless artillery fire has dealt significant damage, disrupting the enemy front line and triggering a disorganized retreat. This successful operation has led to the liberation of 10% of the Homeland.\nTester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  0,
+  400,
+  150,
+  0,
+  "Tester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  0,
+  400,
+  900,
+  0,
+  "Tester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  6,
+  10,
+  100,
+  6,
+  "Tester, you fought hard but wisely. You managed to halt the invaders and reclaim 14% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  6,
+  10,
+  150,
+  16,
+  "The heavy damage inflicted by the invaders has forced your units to retreat deeper into your country. This strategic fallback, albeit necessary, results in the loss of an additional 10% of your territory.\nTester, you fought hard but wisely. You managed to halt the invaders and reclaim 4% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  6,
+  10,
+  900,
+  16,
+  "The heavy damage inflicted by the invaders has forced your units to retreat deeper into your country. This strategic fallback, albeit necessary, results in the loss of an additional 10% of your territory.\nTester, you fought hard but wisely. You managed to halt the invaders and reclaim 4% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  6,
+  50,
+  100,
+  -4,
+  "Your relentless artillery fire has dealt significant damage, disrupting the enemy front line and triggering a disorganized retreat. This successful operation has led to the liberation of 10% of the Homeland.\nTester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  6,
+  50,
+  150,
+  6,
+  "Tester, you fought hard but wisely. You managed to halt the invaders and reclaim 14% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  6,
+  50,
+  900,
+  6,
+  "Tester, you fought hard but wisely. You managed to halt the invaders and reclaim 14% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  6,
+  400,
+  100,
+  -4,
+  "Your relentless artillery fire has dealt significant damage, disrupting the enemy front line and triggering a disorganized retreat. This successful operation has led to the liberation of 10% of the Homeland.\nTester, you have won the war and freed your homeland from the invaders. The cost was high... Long live the homeland! Long live the heroes!"
+ ],
+ [
+  "Defender",
+  6,
+  400,
+  150,
+  6,
+  "Tester, you fought hard but wisely. You managed to halt the invaders and reclaim 14% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  6,
+  400,
+  900,
+  6,
+  "Tester, you fought hard but wisely. You managed to halt the invaders and reclaim 14% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  20,
+  10,
+  100,
+  20,
+  "Tester, you fought with bravery and selflessness. You were able to halt the superior enemy force, yet the aggressor still occupies 20% of the homeland. The fight for liberation continues."
+ ],
+ [
+  "Defender",
+  20,
+  10,
+  150,
+  30,
+  "The heavy damage inflicted by the invaders has forced your units to retreat deeper into your country. This strategic fallback, albeit necessary, results in the loss of an additional 10% of your territory.\nTester, you fought valiantly, yet the enemy was strong. You managed to slow their advance, but the aggressor has penetrated 10% further into your homeland. The struggle for survival continues."
+ ],
+ [
+  "Defender",
+  20,
+  10,
+  900,
+  30,
+  "The heavy damage inflicted by the invaders has forced your units to retreat deeper into your country. This strategic fallback, albeit necessary, results in the loss of an additional 10% of your territory.\nTester, you fought valiantly, yet the enemy was strong. You managed to slow their advance, but the aggressor has penetrated 10% further into your homeland. The struggle for survival continues."
+ ],
+ [
+  "Defender",
+  20,
+  50,
+  100,
+  10,
+  "Your relentless artillery fire has dealt significant damage, disrupting the enemy front line and triggering a disorganized retreat. This successful operation has led to the liberation of 10% of the Homeland.\nTester, you fought hard but wisely. You managed to halt the invaders and reclaim 10% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  20,
+  50,
+  150,
+  20,
+  "Tester, you fought with bravery and selflessness. You were able to halt the superior enemy force, yet the aggressor still occupies 20% of the homeland. The fight for liberation continues."
+ ],
+ [
+  "Defender",
+  20,
+  50,
+  900,
+  20,
+  "Tester, you fought with bravery and selflessness. You were able to halt the superior enemy force, yet the aggressor still occupies 20% of the homeland. The fight for liberation continues."
+ ],
+ [
+  "Defender",
+  20,
+  400,
+  100,
+  10,
+  "Your relentless artillery fire has dealt significant damage, disrupting the enemy front line and triggering a disorganized retreat. This successful operation has led to the liberation of 10% of the Homeland.\nTester, you fought hard but wisely. You managed to halt the invaders and reclaim 10% of your homeland. New battles await you in the future."
+ ],
+ [
+  "Defender",
+  20,
+  400,
+  150,
+  20,
+  "Tester, you fought with bravery and selflessness. You were able to halt the superior enemy force, yet the aggressor still occupies 20% of the homeland. The fight for liberation continues."
+ ],
+ [
+  "Defender",
+  20,
+  400,
+  900,
+  20,
+  "Tester, you fought with bravery and selflessness. You were able to halt the superior enemy force, yet the aggressor still occupies 20% of the homeland. The fight for liberation continues."
+ ],
+ [
+  "Defender",
+  34,
+  10,
+  100,
+  34,
+  "Tester, you fought valiantly, yet the enemy was strong. You managed to slow their advance, but the aggressor has penetrated 14% further into your homeland. The struggle for survival continues."
+ ],
+ [
+  "Defender",
+  34,
+  10,
+  150,
+  44,
+  "The heavy damage inflicted by the invaders has forced your units to retreat deeper into your country. This strategic fallback, albeit necessary, results in the loss of an additional 10% of your territory.\nTester, you fought valiantly, yet the enemy was strong. You managed to slow their advance, but the aggressor has penetrated 24% further into your homeland. The struggle for survival continues."
+ ],
+ [
+  "Defender",
+  34,
+  10,
+  900,
+  44,
+  "The heavy damage inflicted by the invaders has forced your units to retreat deeper into your country. This strategic fallback, albeit necessary, results in the loss of an additional 10% of your territory.\nTester, you fought valiantly, yet the enemy was strong. You managed to slow their advance, but the aggressor has penetrated 24% further into your homeland. The struggle for survival continues."
+ ],
+ [
+  "Defender",
+  34,
+  50,
+  100,
+  24,
+  "Your relentless artillery fire has dealt significant damage, disrupting the enemy front line and triggering a disorganized retreat. This successful operation has led to the liberation of 10% of the Homeland.\nTester, you fought valiantly, yet the enemy was strong. You managed to slow their advance, but the aggressor has penetrated 4% further into your homeland. The struggle for survival continues."
+ ],
+ [
+  "Defender",
+  34,
+  50,
+  150,
+  34,
+  "Tester, you fought valiantly, yet the enemy was strong. You managed to slow their advance, but the aggressor has penetrated 14% further into your homeland. The struggle for survival continues."
+ ],
+ [
+  "Defender",
+  34,
+  50,
+  900,
+  34,
+  "Tester, you fought valiantly, yet the enemy was strong. You managed to slow their advance, but the aggressor has penetrated 14% further into your homeland. The struggle for survival continues."
+ ],
+ [
+  "Defender",
+  34,
+  400,
+  100,
+  24,
+  "Your relentless artillery fire has dealt significant damage, disrupting the enemy front line and triggering a disorganized retreat. This successful operation has led to the liberation of 10% of the Homeland.\nTester, you fought valiantly, yet the enemy was strong. You managed to slow their advance, but the aggressor has penetrated 4% further into your homeland. The struggle for survival continues."
+ ],
+ [
+  "Defender",
+  34,
+  400,
+  150,
+  34,
+  "Tester, you fought valiantly, yet the enemy was strong. You managed to slow their advance, but the aggressor has penetrated 14% further into your homeland. The struggle for survival continues."
+ ],
+ [
+  "Defender",
+  34,
+  400,
+  900,
+  34,
+  "Tester, you fought valiantly, yet the enemy was strong. You managed to slow their advance, but the aggressor has penetrated 14% further into your homeland. The struggle for survival continues."
+ ],
+ [
+  "Intruder",
+  -4,
+  10,
+  100,
+  -4,
+  "Tester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  -4,
+  10,
+  150,
+  6,
+  "Your devastating artillery fire has dealt substantial damage to the defenders. Their front line crumbles, and as they retreat, you seize an additional 10% of their territory.\nTester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 14% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  -4,
+  10,
+  900,
+  6,
+  "Your devastating artillery fire has dealt substantial damage to the defenders. Their front line crumbles, and as they retreat, you seize an additional 10% of their territory.\nTester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 14% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  -4,
+  50,
+  100,
+  -14,
+  "The damage dealt by the defenders has been catastrophic, leading to a collapse of your front line. In the chaotic retreat, your forces have abandoned 10% of the occupied territory in a single day.\nTester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  -4,
+  50,
+  150,
+  -4,
+  "Tester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  -4,
+  50,
+  900,
+  -4,
+  "Tester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  -4,
+  400,
+  100,
+  -14,
+  "The damage dealt by the defenders has been catastrophic, leading to a collapse of your front line. In the chaotic retreat, your forces have abandoned 10% of the occupied territory in a single day.\nTester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  -4,
+  400,
+  150,
+  -4,
+  "Tester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  -4,
+  400,
+  900,
+  -4,
+  "Tester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  0,
+  10,
+  100,
+  0,
+  "Tester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  0,
+  10,
+  150,
+  10,
+  "Your devastating artillery fire has dealt substantial damage to the defenders. Their front line crumbles, and as they retreat, you seize an additional 10% of their territory.\nTester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 10% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  0,
+  10,
+  900,
+  10,
+  "Your devastating artillery fire has dealt substantial damage to the defenders. Their front line crumbles, and as they retreat, you seize an additional 10% of their territory.\nTester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 10% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  0,
+  50,
+  100,
+  -10,
+  "The damage dealt by the defenders has been catastrophic, leading to a collapse of your front line. In the chaotic retreat, your forces have abandoned 10% of the occupied territory in a single day.\nTester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  0,
+  50,
+  150,
+  0,
+  "Tester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  0,
+  50,
+  900,
+  0,
+  "Tester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  0,
+  400,
+  100,
+  -10,
+  "The damage dealt by the defenders has been catastrophic, leading to a collapse of your front line. In the chaotic retreat, your forces have abandoned 10% of the occupied territory in a single day.\nTester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  0,
+  400,
+  150,
+  0,
+  "Tester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  0,
+  400,
+  900,
+  0,
+  "Tester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  6,
+  10,
+  100,
+  6,
+  "Tester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 14% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  6,
+  10,
+  150,
+  16,
+  "Your devastating artillery fire has dealt substantial damage to the defenders. Their front line crumbles, and as they retreat, you seize an additional 10% of their territory.\nTester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 4% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  6,
+  10,
+  900,
+  16,
+  "Your devastating artillery fire has dealt substantial damage to the defenders. Their front line crumbles, and as they retreat, you seize an additional 10% of their territory.\nTester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 4% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  6,
+  50,
+  100,
+  -4,
+  "The damage dealt by the defenders has been catastrophic, leading to a collapse of your front line. In the chaotic retreat, your forces have abandoned 10% of the occupied territory in a single day.\nTester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  6,
+  50,
+  150,
+  6,
+  "Tester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 14% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  6,
+  50,
+  900,
+  6,
+  "Tester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 14% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  6,
+  400,
+  100,
+  -4,
+  "The damage dealt by the defenders has been catastrophic, leading to a collapse of your front line. In the chaotic retreat, your forces have abandoned 10% of the occupied territory in a single day.\nTester, you lost your unjust and unprovoked war against a country of strong spirit. Your own nation is in turmoil, and you and your accomplices now face justice at The Hague."
+ ],
+ [
+  "Intruder",
+  6,
+  400,
+  150,
+  6,
+  "Tester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 14% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  6,
+  400,
+  900,
+  6,
+  "Tester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 14% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  20,
+  10,
+  100,
+  20,
+  "Tester, despite your superior resources and aggressive tactics, you were halted by intelligent and patriotic defenders. Their will to defend their homeland is stronger than your weapons."
+ ],
+ [
+  "Intruder",
+  20,
+  10,
+  150,
+  30,
+  "Your devastating artillery fire has dealt substantial damage to the defenders. Their front line crumbles, and as they retreat, you seize an additional 10% of their territory.\nTester, your aggressive tactics and disregard for losses allowed you to occupy an additional 10% of territory. This type of warfare brings only death and irreversible harm to the world."
+ ],
+ [
+  "Intruder",
+  20,
+  10,
+  900,
+  30,
+  "Your devastating artillery fire has dealt substantial damage to the defenders. Their front line crumbles, and as they retreat, you seize an additional 10% of their territory.\nTester, your aggressive tactics and disregard for losses allowed you to occupy an additional 10% of territory. This type of warfare brings only death and irreversible harm to the world."
+ ],
+ [
+  "Intruder",
+  20,
+  50,
+  100,
+  10,
+  "The damage dealt by the defenders has been catastrophic, leading to a collapse of your front line. In the chaotic retreat, your forces have abandoned 10% of the occupied territory in a single day.\nTester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 10% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  20,
+  50,
+  150,
+  20,
+  "Tester, despite your superior resources and aggressive tactics, you were halted by intelligent and patriotic defenders. Their will to defend their homeland is stronger than your weapons."
+ ],
+ [
+  "Intruder",
+  20,
+  50,
+  900,
+  20,
+  "Tester, despite your superior resources and aggressive tactics, you were halted by intelligent and patriotic defenders. Their will to defend their homeland is stronger than your weapons."
+ ],
+ [
+  "Intruder",
+  20,
+  400,
+  100,
+  10,
+  "The damage dealt by the defenders has been catastrophic, leading to a collapse of your front line. In the chaotic retreat, your forces have abandoned 10% of the occupied territory in a single day.\nTester, you acted aggressively and confidently, yet your cause was misguided. As a result, you suffered many defeats and relinquished 10% of the occupied territory. The repercussions of your actions are becoming increasingly apparent."
+ ],
+ [
+  "Intruder",
+  20,
+  400,
+  150,
+  20,
+  "Tester, despite your superior resources and aggressive tactics, you were halted by intelligent and patriotic defenders. Their will to defend their homeland is stronger than your weapons."
+ ],
+ [
+  "Intruder",
+  20,
+  400,
+  900,
+  20,
+  "Tester, despite your superior resources and aggressive tactics, you were halted by intelligent and patriotic defenders. Their will to defend their homeland is stronger than your weapons."
+ ],
+ [
+  "Intruder",
+  34,
+  10,
+  100,
+  34,
+  "Tester, your aggressive tactics and disregard for losses allowed you to occupy an additional 14% of territory. This type of warfare brings only death and irreversible harm to the world."
+ ],
+ [
+  "Intruder",
+  34,
+  10,
+  150,
+  44,
+  "Your devastating artillery fire has dealt substantial damage to the defenders. Their front line crumbles, and as they retreat, you seize an additional 10% of their territory.\nTester, your aggressive tactics and disregard for losses allowed you to occupy an additional 24% of territory. This type of warfare brings only death and irreversible harm to the world."
+ ],
+ [
+  "Intruder",
+  34,
+  10,
+  900,
+  44,
+  "Your devastating artillery fire has dealt substantial damage to the defenders. Their front line crumbles, and as they retreat, you seize an additional 10% of their territory.\nTester, your aggressive tactics and disregard for losses allowed you to occupy an additional 24% of territory. This type of warfare brings only death and irreversible harm to the world."
+ ],
+ [
+  "Intruder",
+  34,
+  50,
+  100,
+  24,
+  "The damage dealt by the defenders has been catastrophic, leading to a collapse of your front line. In the chaotic retreat, your forces have abandoned 10% of the occupied territory in a single day.\nTester, your aggressive tactics and disregard for losses allowed you to occupy an additional 4% of territory. This type of warfare brings only death and irreversible harm to the world."
+ ],
+ [
+  "Intruder",
+  34,
+  50,
+  150,
+  34,
+  "Tester, your aggressive tactics and disregard for losses allowed you to occupy an additional 14% of territory. This type of warfare brings only death and irreversible harm to the world."
+ ],
+ [
+  "Intruder",
+  34,
+  50,
+  900,
+  34,
+  "Tester, your aggressive tactics and disregard for losses allowed you to occupy an additional 14% of territory. This type of warfare brings only death and irreversible harm to the world."
+ ],
+ [
+  "Intruder",
+  34,
+  400,
+  100,
+  24,
+  "The damage dealt by the defenders has been catastrophic, leading to a collapse of your front line. In the chaotic retreat, your forces have abandoned 10% of the occupied territory in a single day.\nTester, your aggressive tactics and disregard for losses allowed you to occupy an additional 4% of territory. This type of warfare brings only death and irreversible harm to the world."
+ ],
+ [
+  "Intruder",
+  34,
+  400,
+  150,
+  34,
+  "Tester, your aggressive tactics and disregard for losses allowed you to occupy an additional 14% of territory. This type of warfare brings only death and irreversible harm to the world."
+ ],
+ [
+  "Intruder",
+  34,
+  400,
+  900,
+  34,
+  "Tester, your aggressive tactics and disregard for losses allowed you to occupy an additional 14% of territory. This type of warfare brings only death and irreversible harm to the world."
+ ]
+]

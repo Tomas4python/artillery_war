@@ -1,0 +1,2486 @@
+[
+ {
+  "level": "easy",
+  "role": "Defender",
+  "rounds": [
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1012.4,
+     "Relative Humidity,(%)": 77.3,
+     "Air Temperature, (°C)": 23.1,
+     "Wind Speed,(m/s)": 13.7,
+     "Wind Gust,(m/s)": 16.1,
+     "Wind Direction,(°)": 161.7
+    },
+    "map": "images/maps/map10.jpg",
+    "radar": "images/maps/radar10.jpg",
+    "map_direction": 12,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 29,
+     "defender_total_ammo": 93,
+     "intruder_total_ammo": 293,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 897
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1011.4,
+     "Relative Humidity,(%)": 97.8,
+     "Air Temperature, (°C)": 10.1,
+     "Wind Speed,(m/s)": 17.5,
+     "Wind Gust,(m/s)": 22.8,
+     "Wind Direction,(°)": 298.6
+    },
+    "map": "images/maps/map1.jpg",
+    "radar": "images/maps/radar1.jpg",
+    "map_direction": 81,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 28,
+     "defender_total_ammo": 86,
+     "intruder_total_ammo": 286,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 794
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 998.4,
+     "Relative Humidity,(%)": 41.4,
+     "Air Temperature, (°C)": 32.5,
+     "Wind Speed,(m/s)": 20.1,
+     "Wind Gust,(m/s)": 22.6,
+     "Wind Direction,(°)": 219.3
+    },
+    "map": "images/maps/map7.jpg",
+    "radar": "images/maps/radar7.jpg",
+    "map_direction": 295,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 27,
+     "defender_total_ammo": 79,
+     "intruder_total_ammo": 279,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 691
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 998.4,
+     "Relative Humidity,(%)": 95.4,
+     "Air Temperature, (°C)": 30.1,
+     "Wind Speed,(m/s)": 10.8,
+     "Wind Gust,(m/s)": 13.4,
+     "Wind Direction,(°)": 236.0
+    },
+    "map": "images/maps/map8.jpg",
+    "radar": "images/maps/radar8.jpg",
+    "map_direction": 125,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 26,
+     "defender_total_ammo": 72,
+     "intruder_total_ammo": 272,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 588
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1020.2,
+     "Relative Humidity,(%)": 88.9,
+     "Air Temperature, (°C)": 1.1,
+     "Wind Speed,(m/s)": 6.5,
+     "Wind Gust,(m/s)": 8.7,
+     "Wind Direction,(°)": 245.0
+    },
+    "map": "images/maps/map9.jpg",
+    "radar": "images/maps/radar9.jpg",
+    "map_direction": 234,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 25,
+     "defender_total_ammo": 65,
+     "intruder_total_ammo": 265,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 485
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 996.3,
+     "Relative Humidity,(%)": 20.3,
+     "Air Temperature, (°C)": 23.9,
+     "Wind Speed,(m/s)": 22.2,
+     "Wind Gust,(m/s)": 30.8,
+     "Wind Direction,(°)": 349.9
+    },
+    "map": "images/maps/map5.jpg",
+    "radar": "images/maps/radar5.jpg",
+    "map_direction": 195,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 24,
+     "defender_total_ammo": 58,
+     "intruder_total_ammo": 258,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 382
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1025.1,
+     "Relative Humidity,(%)": 86.5,
+     "Air Temperature, (°C)": 7.3,
+     "Wind Speed,(m/s)": 3.6,
+     "Wind Gust,(m/s)": 4.6,
+     "Wind Direction,(°)": 316.1
+    },
+    "map": "images/maps/map2.jpg",
+    "radar": "images/maps/radar2.jpg",
+    "map_direction": 320,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 23,
+     "defender_total_ammo": 51,
+     "intruder_total_ammo": 251,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 279
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1029.8,
+     "Relative Humidity,(%)": 72.0,
+     "Air Temperature, (°C)": 12.5,
+     "Wind Speed,(m/s)": 16.5,
+     "Wind Gust,(m/s)": 19.1,
+     "Wind Direction,(°)": 43.6
+    },
+    "map": "images/maps/map3.jpg",
+    "radar": "images/maps/radar3.jpg",
+    "map_direction": 248,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 22,
+     "defender_total_ammo": 44,
+     "intruder_total_ammo": 244,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 176
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1016.8,
+     "Relative Humidity,(%)": 37.1,
+     "Air Temperature, (°C)": 0.3,
+     "Wind Speed,(m/s)": 28.2,
+     "Wind Gust,(m/s)": 35.3,
+     "Wind Direction,(°)": 205.6
+    },
+    "map": "images/maps/map6.jpg",
+    "radar": "images/maps/radar6.jpg",
+    "map_direction": 10,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 21,
+     "defender_total_ammo": 37,
+     "intruder_total_ammo": 237,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 73
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 997.6,
+     "Relative Humidity,(%)": 55.9,
+     "Air Temperature, (°C)": 11.9,
+     "Wind Speed,(m/s)": 9.8,
+     "Wind Gust,(m/s)": 13.6,
+     "Wind Direction,(°)": 89.9
+    },
+    "map": "images/maps/map4.jpg",
+    "radar": "images/maps/radar4.jpg",
+    "map_direction": 208,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 20,
+     "defender_total_ammo": 30,
+     "intruder_total_ammo": 230,
+     "defender_total_damage": 333,
+     "intruder_total_damage": -30
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1000.6,
+     "Relative Humidity,(%)": 82.7,
+     "Air Temperature, (°C)": 13.2,
+     "Wind Speed,(m/s)": 13.8,
+     "Wind Gust,(m/s)": 19.8,
+     "Wind Direction,(°)": 344.6
+    },
+    "map": "images/maps/map7.jpg",
+    "radar": "images/maps/radar7.jpg",
+    "map_direction": 281,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 19,
+     "defender_total_ammo": 23,
+     "intruder_total_ammo": 223,
+     "defender_total_damage": 333,
+     "intruder_total_damage": -133
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 992.3,
+     "Relative Humidity,(%)": 60.6,
+     "Air Temperature, (°C)": 29.1,
+     "Wind Speed,(m/s)": 3.9,
+     "Wind Gust,(m/s)": 4.9,
+     "Wind Direction,(°)": 24.5
+    },
+    "map": "images/maps/map9.jpg",
+    "radar": "images/maps/radar9.jpg",
+    "map_direction": 338,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 18,
+     "defender_total_ammo": 16,
+     "intruder_total_ammo": 216,
+     "defender_total_damage": 333,
+     "intruder_total_damage": -236
+    },
+    "should_end": true
+   }
+  ]
+ },
+ {
+  "level": "easy",
+  "role": "Intruder",
+  "rounds": [
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1012.4,
+     "Relative Humidity,(%)": 77.3,
+     "Air Temperature, (°C)": 23.1,
+     "Wind Speed,(m/s)": 13.7,
+     "Wind Gust,(m/s)": 16.1,
+     "Wind Direction,(°)": 161.7
+    },
+    "map": "images/maps/map10.jpg",
+    "radar": "images/maps/radar10.jpg",
+    "map_direction": 12,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 29,
+     "defender_total_ammo": 93,
+     "intruder_total_ammo": 293,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 897
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1011.4,
+     "Relative Humidity,(%)": 97.8,
+     "Air Temperature, (°C)": 10.1,
+     "Wind Speed,(m/s)": 17.5,
+     "Wind Gust,(m/s)": 22.8,
+     "Wind Direction,(°)": 298.6
+    },
+    "map": "images/maps/map1.jpg",
+    "radar": "images/maps/radar1.jpg",
+    "map_direction": 81,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 28,
+     "defender_total_ammo": 86,
+     "intruder_total_ammo": 286,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 794
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 998.4,
+     "Relative Humidity,(%)": 41.4,
+     "Air Temperature, (°C)": 32.5,
+     "Wind Speed,(m/s)": 20.1,
+     "Wind Gust,(m/s)": 22.6,
+     "Wind Direction,(°)": 219.3
+    },
+    "map": "images/maps/map7.jpg",
+    "radar": "images/maps/radar7.jpg",
+    "map_direction": 295,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 27,
+     "defender_total_ammo": 79,
+     "intruder_total_ammo": 279,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 691
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 998.4,
+     "Relative Humidity,(%)": 95.4,
+     "Air Temperature, (°C)": 30.1,
+     "Wind Speed,(m/s)": 10.8,
+     "Wind Gust,(m/s)": 13.4,
+     "Wind Direction,(°)": 236.0
+    },
+    "map": "images/maps/map8.jpg",
+    "radar": "images/maps/radar8.jpg",
+    "map_direction": 125,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 26,
+     "defender_total_ammo": 72,
+     "intruder_total_ammo": 272,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 588
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1020.2,
+     "Relative Humidity,(%)": 88.9,
+     "Air Temperature, (°C)": 1.1,
+     "Wind Speed,(m/s)": 6.5,
+     "Wind Gust,(m/s)": 8.7,
+     "Wind Direction,(°)": 245.0
+    },
+    "map": "images/maps/map9.jpg",
+    "radar": "images/maps/radar9.jpg",
+    "map_direction": 234,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 25,
+     "defender_total_ammo": 65,
+     "intruder_total_ammo": 265,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 485
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 996.3,
+     "Relative Humidity,(%)": 20.3,
+     "Air Temperature, (°C)": 23.9,
+     "Wind Speed,(m/s)": 22.2,
+     "Wind Gust,(m/s)": 30.8,
+     "Wind Direction,(°)": 349.9
+    },
+    "map": "images/maps/map5.jpg",
+    "radar": "images/maps/radar5.jpg",
+    "map_direction": 195,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 24,
+     "defender_total_ammo": 58,
+     "intruder_total_ammo": 258,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 382
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1025.1,
+     "Relative Humidity,(%)": 86.5,
+     "Air Temperature, (°C)": 7.3,
+     "Wind Speed,(m/s)": 3.6,
+     "Wind Gust,(m/s)": 4.6,
+     "Wind Direction,(°)": 316.1
+    },
+    "map": "images/maps/map2.jpg",
+    "radar": "images/maps/radar2.jpg",
+    "map_direction": 320,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 23,
+     "defender_total_ammo": 51,
+     "intruder_total_ammo": 251,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 279
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1029.8,
+     "Relative Humidity,(%)": 72.0,
+     "Air Temperature, (°C)": 12.5,
+     "Wind Speed,(m/s)": 16.5,
+     "Wind Gust,(m/s)": 19.1,
+     "Wind Direction,(°)": 43.6
+    },
+    "map": "images/maps/map3.jpg",
+    "radar": "images/maps/radar3.jpg",
+    "map_direction": 248,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 22,
+     "defender_total_ammo": 44,
+     "intruder_total_ammo": 244,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 176
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1016.8,
+     "Relative Humidity,(%)": 37.1,
+     "Air Temperature, (°C)": 0.3,
+     "Wind Speed,(m/s)": 28.2,
+     "Wind Gust,(m/s)": 35.3,
+     "Wind Direction,(°)": 205.6
+    },
+    "map": "images/maps/map6.jpg",
+    "radar": "images/maps/radar6.jpg",
+    "map_direction": 10,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 21,
+     "defender_total_ammo": 37,
+     "intruder_total_ammo": 237,
+     "defender_total_damage": 333,
+     "intruder_total_damage": 73
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 997.6,
+     "Relative Humidity,(%)": 55.9,
+     "Air Temperature, (°C)": 11.9,
+     "Wind Speed,(m/s)": 9.8,
+     "Wind Gust,(m/s)": 13.6,
+     "Wind Direction,(°)": 89.9
+    },
+    "map": "images/maps/map4.jpg",
+    "radar": "images/maps/radar4.jpg",
+    "map_direction": 208,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 20,
+     "defender_total_ammo": 30,
+     "intruder_total_ammo": 230,
+     "defender_total_damage": 333,
+     "intruder_total_damage": -30
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1000.6,
+     "Relative Humidity,(%)": 82.7,
+     "Air Temperature, (°C)": 13.2,
+     "Wind Speed,(m/s)": 13.8,
+     "Wind Gust,(m/s)": 19.8,
+     "Wind Direction,(°)": 344.6
+    },
+    "map": "images/maps/map7.jpg",
+    "radar": "images/maps/radar7.jpg",
+    "map_direction": 281,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 19,
+     "defender_total_ammo": 23,
+     "intruder_total_ammo": 223,
+     "defender_total_damage": 333,
+     "intruder_total_damage": -133
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 992.3,
+     "Relative Humidity,(%)": 60.6,
+     "Air Temperature, (°C)": 29.1,
+     "Wind Speed,(m/s)": 3.9,
+     "Wind Gust,(m/s)": 4.9,
+     "Wind Direction,(°)": 24.5
+    },
+    "map": "images/maps/map9.jpg",
+    "radar": "images/maps/radar9.jpg",
+    "map_direction": 338,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     1,
+     3
+    ],
+    "unit_count": [
+     2,
+     6
+    ],
+    "totals": {
+     "defender_total_units": 10,
+     "intruder_total_units": 18,
+     "defender_total_ammo": 16,
+     "intruder_total_ammo": 216,
+     "defender_total_damage": 333,
+     "intruder_total_damage": -236
+    },
+    "should_end": true
+   }
+  ]
+ },
+ {
+  "level": "medium",
+  "role": "Defender",
+  "rounds": [
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1028.3,
+     "Relative Humidity,(%)": 46.9,
+     "Air Temperature, (°C)": -1.3,
+     "Wind Speed,(m/s)": 4.7,
+     "Wind Gust,(m/s)": 6.3,
+     "Wind Direction,(°)": 305.1
+    },
+    "map": "images/maps/map10.jpg",
+    "radar": "images/maps/radar10.jpg",
+    "map_direction": 12,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 58,
+     "defender_total_ammo": 192,
+     "intruder_total_ammo": 566,
+     "defender_total_damage": 633,
+     "intruder_total_damage": 1789
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1011.4,
+     "Relative Humidity,(%)": 39.6,
+     "Air Temperature, (°C)": 13.5,
+     "Wind Speed,(m/s)": 9.6,
+     "Wind Gust,(m/s)": 12.7,
+     "Wind Direction,(°)": 333.1
+    },
+    "map": "images/maps/map1.jpg",
+    "radar": "images/maps/radar1.jpg",
+    "map_direction": 235,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 56,
+     "defender_total_ammo": 184,
+     "intruder_total_ammo": 532,
+     "defender_total_damage": 599,
+     "intruder_total_damage": 1578
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1024.4,
+     "Relative Humidity,(%)": 32.2,
+     "Air Temperature, (°C)": 1.4,
+     "Wind Speed,(m/s)": 21.1,
+     "Wind Gust,(m/s)": 25.6,
+     "Wind Direction,(°)": 214.7
+    },
+    "map": "images/maps/map5.jpg",
+    "radar": "images/maps/radar5.jpg",
+    "map_direction": 350,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 54,
+     "defender_total_ammo": 176,
+     "intruder_total_ammo": 498,
+     "defender_total_damage": 565,
+     "intruder_total_damage": 1367
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1014.0,
+     "Relative Humidity,(%)": 59.1,
+     "Air Temperature, (°C)": -0.5,
+     "Wind Speed,(m/s)": 12.2,
+     "Wind Gust,(m/s)": 17.2,
+     "Wind Direction,(°)": 354.7
+    },
+    "map": "images/maps/map7.jpg",
+    "radar": "images/maps/radar7.jpg",
+    "map_direction": 239,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 52,
+     "defender_total_ammo": 168,
+     "intruder_total_ammo": 464,
+     "defender_total_damage": 531,
+     "intruder_total_damage": 1156
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1013.5,
+     "Relative Humidity,(%)": 20.6,
+     "Air Temperature, (°C)": 23.3,
+     "Wind Speed,(m/s)": 3.6,
+     "Wind Gust,(m/s)": 4.6,
+     "Wind Direction,(°)": 24.3
+    },
+    "map": "images/maps/map3.jpg",
+    "radar": "images/maps/radar3.jpg",
+    "map_direction": 29,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 50,
+     "defender_total_ammo": 160,
+     "intruder_total_ammo": 430,
+     "defender_total_damage": 497,
+     "intruder_total_damage": 945
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 997.6,
+     "Relative Humidity,(%)": 55.9,
+     "Air Temperature, (°C)": 11.9,
+     "Wind Speed,(m/s)": 9.8,
+     "Wind Gust,(m/s)": 13.6,
+     "Wind Direction,(°)": 89.9
+    },
+    "map": "images/maps/map6.jpg",
+    "radar": "images/maps/radar6.jpg",
+    "map_direction": 36,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 48,
+     "defender_total_ammo": 152,
+     "intruder_total_ammo": 396,
+     "defender_total_damage": 463,
+     "intruder_total_damage": 734
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1010.1,
+     "Relative Humidity,(%)": 88.2,
+     "Air Temperature, (°C)": 1.3,
+     "Wind Speed,(m/s)": 28.9,
+     "Wind Gust,(m/s)": 32.3,
+     "Wind Direction,(°)": 28.8
+    },
+    "map": "images/maps/map9.jpg",
+    "radar": "images/maps/radar9.jpg",
+    "map_direction": 281,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 46,
+     "defender_total_ammo": 144,
+     "intruder_total_ammo": 362,
+     "defender_total_damage": 429,
+     "intruder_total_damage": 523
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1010.2,
+     "Relative Humidity,(%)": 30.6,
+     "Air Temperature, (°C)": 9.0,
+     "Wind Speed,(m/s)": 3.9,
+     "Wind Gust,(m/s)": 4.9,
+     "Wind Direction,(°)": 87.9
+    },
+    "map": "images/maps/map8.jpg",
+    "radar": "images/maps/radar8.jpg",
+    "map_direction": 34,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 44,
+     "defender_total_ammo": 136,
+     "intruder_total_ammo": 328,
+     "defender_total_damage": 395,
+     "intruder_total_damage": 312
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1003.3,
+     "Relative Humidity,(%)": 30.5,
+     "Air Temperature, (°C)": 34.2,
+     "Wind Speed,(m/s)": 6.5,
+     "Wind Gust,(m/s)": 8.9,
+     "Wind Direction,(°)": 159.1
+    },
+    "map": "images/maps/map4.jpg",
+    "radar": "images/maps/radar4.jpg",
+    "map_direction": 278,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 42,
+     "defender_total_ammo": 128,
+     "intruder_total_ammo": 294,
+     "defender_total_damage": 361,
+     "intruder_total_damage": 101
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1021.3,
+     "Relative Humidity,(%)": 52.9,
+     "Air Temperature, (°C)": 21.8,
+     "Wind Speed,(m/s)": 22.6,
+     "Wind Gust,(m/s)": 25.2,
+     "Wind Direction,(°)": 89.3
+    },
+    "map": "images/maps/map2.jpg",
+    "radar": "images/maps/radar2.jpg",
+    "map_direction": 57,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 40,
+     "defender_total_ammo": 120,
+     "intruder_total_ammo": 260,
+     "defender_total_damage": 327,
+     "intruder_total_damage": -110
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1003.8,
+     "Relative Humidity,(%)": 82.9,
+     "Air Temperature, (°C)": 12.5,
+     "Wind Speed,(m/s)": 29.6,
+     "Wind Gust,(m/s)": 42.3,
+     "Wind Direction,(°)": 41.6
+    },
+    "map": "images/maps/map10.jpg",
+    "radar": "images/maps/radar10.jpg",
+    "map_direction": 195,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 38,
+     "defender_total_ammo": 112,
+     "intruder_total_ammo": 226,
+     "defender_total_damage": 293,
+     "intruder_total_damage": -321
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1006.2,
+     "Relative Humidity,(%)": 86.7,
+     "Air Temperature, (°C)": 7.2,
+     "Wind Speed,(m/s)": 7.9,
+     "Wind Gust,(m/s)": 10.1,
+     "Wind Direction,(°)": 282.9
+    },
+    "map": "images/maps/map4.jpg",
+    "radar": "images/maps/radar4.jpg",
+    "map_direction": 130,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 36,
+     "defender_total_ammo": 104,
+     "intruder_total_ammo": 192,
+     "defender_total_damage": 259,
+     "intruder_total_damage": -532
+    },
+    "should_end": true
+   }
+  ]
+ },
+ {
+  "level": "medium",
+  "role": "Intruder",
+  "rounds": [
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1028.3,
+     "Relative Humidity,(%)": 46.9,
+     "Air Temperature, (°C)": -1.3,
+     "Wind Speed,(m/s)": 4.7,
+     "Wind Gust,(m/s)": 6.3,
+     "Wind Direction,(°)": 305.1
+    },
+    "map": "images/maps/map10.jpg",
+    "radar": "images/maps/radar10.jpg",
+    "map_direction": 12,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 58,
+     "defender_total_ammo": 192,
+     "intruder_total_ammo": 566,
+     "defender_total_damage": 633,
+     "intruder_total_damage": 1789
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1011.4,
+     "Relative Humidity,(%)": 39.6,
+     "Air Temperature, (°C)": 13.5,
+     "Wind Speed,(m/s)": 9.6,
+     "Wind Gust,(m/s)": 12.7,
+     "Wind Direction,(°)": 333.1
+    },
+    "map": "images/maps/map1.jpg",
+    "radar": "images/maps/radar1.jpg",
+    "map_direction": 235,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 56,
+     "defender_total_ammo": 184,
+     "intruder_total_ammo": 532,
+     "defender_total_damage": 599,
+     "intruder_total_damage": 1578
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1024.4,
+     "Relative Humidity,(%)": 32.2,
+     "Air Temperature, (°C)": 1.4,
+     "Wind Speed,(m/s)": 21.1,
+     "Wind Gust,(m/s)": 25.6,
+     "Wind Direction,(°)": 214.7
+    },
+    "map": "images/maps/map5.jpg",
+    "radar": "images/maps/radar5.jpg",
+    "map_direction": 350,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 54,
+     "defender_total_ammo": 176,
+     "intruder_total_ammo": 498,
+     "defender_total_damage": 565,
+     "intruder_total_damage": 1367
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1014.0,
+     "Relative Humidity,(%)": 59.1,
+     "Air Temperature, (°C)": -0.5,
+     "Wind Speed,(m/s)": 12.2,
+     "Wind Gust,(m/s)": 17.2,
+     "Wind Direction,(°)": 354.7
+    },
+    "map": "images/maps/map7.jpg",
+    "radar": "images/maps/radar7.jpg",
+    "map_direction": 239,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 52,
+     "defender_total_ammo": 168,
+     "intruder_total_ammo": 464,
+     "defender_total_damage": 531,
+     "intruder_total_damage": 1156
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1013.5,
+     "Relative Humidity,(%)": 20.6,
+     "Air Temperature, (°C)": 23.3,
+     "Wind Speed,(m/s)": 3.6,
+     "Wind Gust,(m/s)": 4.6,
+     "Wind Direction,(°)": 24.3
+    },
+    "map": "images/maps/map3.jpg",
+    "radar": "images/maps/radar3.jpg",
+    "map_direction": 29,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 50,
+     "defender_total_ammo": 160,
+     "intruder_total_ammo": 430,
+     "defender_total_damage": 497,
+     "intruder_total_damage": 945
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 997.6,
+     "Relative Humidity,(%)": 55.9,
+     "Air Temperature, (°C)": 11.9,
+     "Wind Speed,(m/s)": 9.8,
+     "Wind Gust,(m/s)": 13.6,
+     "Wind Direction,(°)": 89.9
+    },
+    "map": "images/maps/map6.jpg",
+    "radar": "images/maps/radar6.jpg",
+    "map_direction": 36,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 48,
+     "defender_total_ammo": 152,
+     "intruder_total_ammo": 396,
+     "defender_total_damage": 463,
+     "intruder_total_damage": 734
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1010.1,
+     "Relative Humidity,(%)": 88.2,
+     "Air Temperature, (°C)": 1.3,
+     "Wind Speed,(m/s)": 28.9,
+     "Wind Gust,(m/s)": 32.3,
+     "Wind Direction,(°)": 28.8
+    },
+    "map": "images/maps/map9.jpg",
+    "radar": "images/maps/radar9.jpg",
+    "map_direction": 281,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 46,
+     "defender_total_ammo": 144,
+     "intruder_total_ammo": 362,
+     "defender_total_damage": 429,
+     "intruder_total_damage": 523
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1010.2,
+     "Relative Humidity,(%)": 30.6,
+     "Air Temperature, (°C)": 9.0,
+     "Wind Speed,(m/s)": 3.9,
+     "Wind Gust,(m/s)": 4.9,
+     "Wind Direction,(°)": 87.9
+    },
+    "map": "images/maps/map8.jpg",
+    "radar": "images/maps/radar8.jpg",
+    "map_direction": 34,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 44,
+     "defender_total_ammo": 136,
+     "intruder_total_ammo": 328,
+     "defender_total_damage": 395,
+     "intruder_total_damage": 312
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1003.3,
+     "Relative Humidity,(%)": 30.5,
+     "Air Temperature, (°C)": 34.2,
+     "Wind Speed,(m/s)": 6.5,
+     "Wind Gust,(m/s)": 8.9,
+     "Wind Direction,(°)": 159.1
+    },
+    "map": "images/maps/map4.jpg",
+    "radar": "images/maps/radar4.jpg",
+    "map_direction": 278,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 42,
+     "defender_total_ammo": 128,
+     "intruder_total_ammo": 294,
+     "defender_total_damage": 361,
+     "intruder_total_damage": 101
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1021.3,
+     "Relative Humidity,(%)": 52.9,
+     "Air Temperature, (°C)": 21.8,
+     "Wind Speed,(m/s)": 22.6,
+     "Wind Gust,(m/s)": 25.2,
+     "Wind Direction,(°)": 89.3
+    },
+    "map": "images/maps/map2.jpg",
+    "radar": "images/maps/radar2.jpg",
+    "map_direction": 57,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 40,
+     "defender_total_ammo": 120,
+     "intruder_total_ammo": 260,
+     "defender_total_damage": 327,
+     "intruder_total_damage": -110
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1003.8,
+     "Relative Humidity,(%)": 82.9,
+     "Air Temperature, (°C)": 12.5,
+     "Wind Speed,(m/s)": 29.6,
+     "Wind Gust,(m/s)": 42.3,
+     "Wind Direction,(°)": 41.6
+    },
+    "map": "images/maps/map10.jpg",
+    "radar": "images/maps/radar10.jpg",
+    "map_direction": 195,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 38,
+     "defender_total_ammo": 112,
+     "intruder_total_ammo": 226,
+     "defender_total_damage": 293,
+     "intruder_total_damage": -321
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1006.2,
+     "Relative Humidity,(%)": 86.7,
+     "Air Temperature, (°C)": 7.2,
+     "Wind Speed,(m/s)": 7.9,
+     "Wind Gust,(m/s)": 10.1,
+     "Wind Direction,(°)": 282.9
+    },
+    "map": "images/maps/map4.jpg",
+    "radar": "images/maps/radar4.jpg",
+    "map_direction": 130,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     2,
+     6
+    ],
+    "unit_count": [
+     4,
+     12
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 36,
+     "defender_total_ammo": 104,
+     "intruder_total_ammo": 192,
+     "defender_total_damage": 259,
+     "intruder_total_damage": -532
+    },
+    "should_end": true
+   }
+  ]
+ },
+ {
+  "level": "hard",
+  "role": "Defender",
+  "rounds": [
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 993.2,
+     "Relative Humidity,(%)": 43.5,
+     "Air Temperature, (°C)": 20.1,
+     "Wind Speed,(m/s)": 26.8,
+     "Wind Gust,(m/s)": 30.1,
+     "Wind Direction,(°)": 130.2
+    },
+    "map": "images/maps/map10.jpg",
+    "radar": "images/maps/radar10.jpg",
+    "map_direction": 12,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 29,
+     "intruder_total_units": 88,
+     "defender_total_ammo": 286,
+     "intruder_total_ammo": 852,
+     "defender_total_damage": 898,
+     "intruder_total_damage": 2676
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 999.9,
+     "Relative Humidity,(%)": 64.9,
+     "Air Temperature, (°C)": 5.5,
+     "Wind Speed,(m/s)": 18.4,
+     "Wind Gust,(m/s)": 22.6,
+     "Wind Direction,(°)": 323.2
+    },
+    "map": "images/maps/map2.jpg",
+    "radar": "images/maps/radar2.jpg",
+    "map_direction": 23,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 28,
+     "intruder_total_units": 86,
+     "defender_total_ammo": 272,
+     "intruder_total_ammo": 804,
+     "defender_total_damage": 796,
+     "intruder_total_damage": 2352
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1014.0,
+     "Relative Humidity,(%)": 59.1,
+     "Air Temperature, (°C)": -0.5,
+     "Wind Speed,(m/s)": 12.2,
+     "Wind Gust,(m/s)": 17.2,
+     "Wind Direction,(°)": 354.7
+    },
+    "map": "images/maps/map5.jpg",
+    "radar": "images/maps/radar5.jpg",
+    "map_direction": 70,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 27,
+     "intruder_total_units": 84,
+     "defender_total_ammo": 258,
+     "intruder_total_ammo": 756,
+     "defender_total_damage": 694,
+     "intruder_total_damage": 2028
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 998.6,
+     "Relative Humidity,(%)": 30.6,
+     "Air Temperature, (°C)": 32.4,
+     "Wind Speed,(m/s)": 18.0,
+     "Wind Gust,(m/s)": 25.3,
+     "Wind Direction,(°)": 170.2
+    },
+    "map": "images/maps/map3.jpg",
+    "radar": "images/maps/radar3.jpg",
+    "map_direction": 29,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 26,
+     "intruder_total_units": 82,
+     "defender_total_ammo": 244,
+     "intruder_total_ammo": 708,
+     "defender_total_damage": 592,
+     "intruder_total_damage": 1704
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 996.2,
+     "Relative Humidity,(%)": 43.7,
+     "Air Temperature, (°C)": 33.7,
+     "Wind Speed,(m/s)": 18.2,
+     "Wind Gust,(m/s)": 25.2,
+     "Wind Direction,(°)": 195.2
+    },
+    "map": "images/maps/map7.jpg",
+    "radar": "images/maps/radar7.jpg",
+    "map_direction": 97,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 25,
+     "intruder_total_units": 80,
+     "defender_total_ammo": 230,
+     "intruder_total_ammo": 660,
+     "defender_total_damage": 490,
+     "intruder_total_damage": 1380
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1016.7,
+     "Relative Humidity,(%)": 64.4,
+     "Air Temperature, (°C)": 32.3,
+     "Wind Speed,(m/s)": 4.9,
+     "Wind Gust,(m/s)": 6.2,
+     "Wind Direction,(°)": 316.1
+    },
+    "map": "images/maps/map1.jpg",
+    "radar": "images/maps/radar1.jpg",
+    "map_direction": 25,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 24,
+     "intruder_total_units": 78,
+     "defender_total_ammo": 216,
+     "intruder_total_ammo": 612,
+     "defender_total_damage": 388,
+     "intruder_total_damage": 1056
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1016.7,
+     "Relative Humidity,(%)": 48.3,
+     "Air Temperature, (°C)": 17.4,
+     "Wind Speed,(m/s)": 26.5,
+     "Wind Gust,(m/s)": 36.5,
+     "Wind Direction,(°)": 350.6
+    },
+    "map": "images/maps/map4.jpg",
+    "radar": "images/maps/radar4.jpg",
+    "map_direction": 283,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 23,
+     "intruder_total_units": 76,
+     "defender_total_ammo": 202,
+     "intruder_total_ammo": 564,
+     "defender_total_damage": 286,
+     "intruder_total_damage": 732
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1007.5,
+     "Relative Humidity,(%)": 98.7,
+     "Air Temperature, (°C)": -0.4,
+     "Wind Speed,(m/s)": 27.2,
+     "Wind Gust,(m/s)": 28.7,
+     "Wind Direction,(°)": 68.4
+    },
+    "map": "images/maps/map6.jpg",
+    "radar": "images/maps/radar6.jpg",
+    "map_direction": 83,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 22,
+     "intruder_total_units": 74,
+     "defender_total_ammo": 188,
+     "intruder_total_ammo": 516,
+     "defender_total_damage": 184,
+     "intruder_total_damage": 408
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1010.6,
+     "Relative Humidity,(%)": 70.6,
+     "Air Temperature, (°C)": 8.4,
+     "Wind Speed,(m/s)": 24.9,
+     "Wind Gust,(m/s)": 33.3,
+     "Wind Direction,(°)": 270.4
+    },
+    "map": "images/maps/map9.jpg",
+    "radar": "images/maps/radar9.jpg",
+    "map_direction": 0,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 21,
+     "intruder_total_units": 72,
+     "defender_total_ammo": 174,
+     "intruder_total_ammo": 468,
+     "defender_total_damage": 82,
+     "intruder_total_damage": 84
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1023.6,
+     "Relative Humidity,(%)": 42.2,
+     "Air Temperature, (°C)": 26.1,
+     "Wind Speed,(m/s)": 15.6,
+     "Wind Gust,(m/s)": 19.2,
+     "Wind Direction,(°)": 86.1
+    },
+    "map": "images/maps/map8.jpg",
+    "radar": "images/maps/radar8.jpg",
+    "map_direction": 101,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 70,
+     "defender_total_ammo": 160,
+     "intruder_total_ammo": 420,
+     "defender_total_damage": -20,
+     "intruder_total_damage": -240
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 995.4,
+     "Relative Humidity,(%)": 56.9,
+     "Air Temperature, (°C)": -3.0,
+     "Wind Speed,(m/s)": 12.6,
+     "Wind Gust,(m/s)": 15.2,
+     "Wind Direction,(°)": 76.2
+    },
+    "map": "images/maps/map4.jpg",
+    "radar": "images/maps/radar4.jpg",
+    "map_direction": 120,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 19,
+     "intruder_total_units": 68,
+     "defender_total_ammo": 146,
+     "intruder_total_ammo": 372,
+     "defender_total_damage": -122,
+     "intruder_total_damage": -564
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1024.0,
+     "Relative Humidity,(%)": 68.0,
+     "Air Temperature, (°C)": -0.2,
+     "Wind Speed,(m/s)": 29.5,
+     "Wind Gust,(m/s)": 35.0,
+     "Wind Direction,(°)": 281.7
+    },
+    "map": "images/maps/map7.jpg",
+    "radar": "images/maps/radar7.jpg",
+    "map_direction": 142,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 18,
+     "intruder_total_units": 66,
+     "defender_total_ammo": 132,
+     "intruder_total_ammo": 324,
+     "defender_total_damage": -224,
+     "intruder_total_damage": -888
+    },
+    "should_end": true
+   }
+  ]
+ },
+ {
+  "level": "hard",
+  "role": "Intruder",
+  "rounds": [
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 993.2,
+     "Relative Humidity,(%)": 43.5,
+     "Air Temperature, (°C)": 20.1,
+     "Wind Speed,(m/s)": 26.8,
+     "Wind Gust,(m/s)": 30.1,
+     "Wind Direction,(°)": 130.2
+    },
+    "map": "images/maps/map10.jpg",
+    "radar": "images/maps/radar10.jpg",
+    "map_direction": 12,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 29,
+     "intruder_total_units": 88,
+     "defender_total_ammo": 286,
+     "intruder_total_ammo": 852,
+     "defender_total_damage": 898,
+     "intruder_total_damage": 2676
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 999.9,
+     "Relative Humidity,(%)": 64.9,
+     "Air Temperature, (°C)": 5.5,
+     "Wind Speed,(m/s)": 18.4,
+     "Wind Gust,(m/s)": 22.6,
+     "Wind Direction,(°)": 323.2
+    },
+    "map": "images/maps/map2.jpg",
+    "radar": "images/maps/radar2.jpg",
+    "map_direction": 23,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 28,
+     "intruder_total_units": 86,
+     "defender_total_ammo": 272,
+     "intruder_total_ammo": 804,
+     "defender_total_damage": 796,
+     "intruder_total_damage": 2352
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1014.0,
+     "Relative Humidity,(%)": 59.1,
+     "Air Temperature, (°C)": -0.5,
+     "Wind Speed,(m/s)": 12.2,
+     "Wind Gust,(m/s)": 17.2,
+     "Wind Direction,(°)": 354.7
+    },
+    "map": "images/maps/map5.jpg",
+    "radar": "images/maps/radar5.jpg",
+    "map_direction": 70,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 27,
+     "intruder_total_units": 84,
+     "defender_total_ammo": 258,
+     "intruder_total_ammo": 756,
+     "defender_total_damage": 694,
+     "intruder_total_damage": 2028
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 998.6,
+     "Relative Humidity,(%)": 30.6,
+     "Air Temperature, (°C)": 32.4,
+     "Wind Speed,(m/s)": 18.0,
+     "Wind Gust,(m/s)": 25.3,
+     "Wind Direction,(°)": 170.2
+    },
+    "map": "images/maps/map3.jpg",
+    "radar": "images/maps/radar3.jpg",
+    "map_direction": 29,
+    "field": [
+     4492,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 26,
+     "intruder_total_units": 82,
+     "defender_total_ammo": 244,
+     "intruder_total_ammo": 708,
+     "defender_total_damage": 592,
+     "intruder_total_damage": 1704
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 996.2,
+     "Relative Humidity,(%)": 43.7,
+     "Air Temperature, (°C)": 33.7,
+     "Wind Speed,(m/s)": 18.2,
+     "Wind Gust,(m/s)": 25.2,
+     "Wind Direction,(°)": 195.2
+    },
+    "map": "images/maps/map7.jpg",
+    "radar": "images/maps/radar7.jpg",
+    "map_direction": 97,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 25,
+     "intruder_total_units": 80,
+     "defender_total_ammo": 230,
+     "intruder_total_ammo": 660,
+     "defender_total_damage": 490,
+     "intruder_total_damage": 1380
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1016.7,
+     "Relative Humidity,(%)": 64.4,
+     "Air Temperature, (°C)": 32.3,
+     "Wind Speed,(m/s)": 4.9,
+     "Wind Gust,(m/s)": 6.2,
+     "Wind Direction,(°)": 316.1
+    },
+    "map": "images/maps/map1.jpg",
+    "radar": "images/maps/radar1.jpg",
+    "map_direction": 25,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 24,
+     "intruder_total_units": 78,
+     "defender_total_ammo": 216,
+     "intruder_total_ammo": 612,
+     "defender_total_damage": 388,
+     "intruder_total_damage": 1056
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1016.7,
+     "Relative Humidity,(%)": 48.3,
+     "Air Temperature, (°C)": 17.4,
+     "Wind Speed,(m/s)": 26.5,
+     "Wind Gust,(m/s)": 36.5,
+     "Wind Direction,(°)": 350.6
+    },
+    "map": "images/maps/map4.jpg",
+    "radar": "images/maps/radar4.jpg",
+    "map_direction": 283,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 23,
+     "intruder_total_units": 76,
+     "defender_total_ammo": 202,
+     "intruder_total_ammo": 564,
+     "defender_total_damage": 286,
+     "intruder_total_damage": 732
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1007.5,
+     "Relative Humidity,(%)": 98.7,
+     "Air Temperature, (°C)": -0.4,
+     "Wind Speed,(m/s)": 27.2,
+     "Wind Gust,(m/s)": 28.7,
+     "Wind Direction,(°)": 68.4
+    },
+    "map": "images/maps/map6.jpg",
+    "radar": "images/maps/radar6.jpg",
+    "map_direction": 83,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 22,
+     "intruder_total_units": 74,
+     "defender_total_ammo": 188,
+     "intruder_total_ammo": 516,
+     "defender_total_damage": 184,
+     "intruder_total_damage": 408
+    },
+    "should_end": false
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1010.6,
+     "Relative Humidity,(%)": 70.6,
+     "Air Temperature, (°C)": 8.4,
+     "Wind Speed,(m/s)": 24.9,
+     "Wind Gust,(m/s)": 33.3,
+     "Wind Direction,(°)": 270.4
+    },
+    "map": "images/maps/map9.jpg",
+    "radar": "images/maps/radar9.jpg",
+    "map_direction": 0,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 21,
+     "intruder_total_units": 72,
+     "defender_total_ammo": 174,
+     "intruder_total_ammo": 468,
+     "defender_total_damage": 82,
+     "intruder_total_damage": 84
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1023.6,
+     "Relative Humidity,(%)": 42.2,
+     "Air Temperature, (°C)": 26.1,
+     "Wind Speed,(m/s)": 15.6,
+     "Wind Gust,(m/s)": 19.2,
+     "Wind Direction,(°)": 86.1
+    },
+    "map": "images/maps/map8.jpg",
+    "radar": "images/maps/radar8.jpg",
+    "map_direction": 101,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 20,
+     "intruder_total_units": 70,
+     "defender_total_ammo": 160,
+     "intruder_total_ammo": 420,
+     "defender_total_damage": -20,
+     "intruder_total_damage": -240
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 995.4,
+     "Relative Humidity,(%)": 56.9,
+     "Air Temperature, (°C)": -3.0,
+     "Wind Speed,(m/s)": 12.6,
+     "Wind Gust,(m/s)": 15.2,
+     "Wind Direction,(°)": 76.2
+    },
+    "map": "images/maps/map4.jpg",
+    "radar": "images/maps/radar4.jpg",
+    "map_direction": 120,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 19,
+     "intruder_total_units": 68,
+     "defender_total_ammo": 146,
+     "intruder_total_ammo": 372,
+     "defender_total_damage": -122,
+     "intruder_total_damage": -564
+    },
+    "should_end": true
+   },
+   {
+    "weather": {
+     "Sea Level Pressure,(hPa)": 1024.0,
+     "Relative Humidity,(%)": 68.0,
+     "Air Temperature, (°C)": -0.2,
+     "Wind Speed,(m/s)": 29.5,
+     "Wind Gust,(m/s)": 35.0,
+     "Wind Direction,(°)": 281.7
+    },
+    "map": "images/maps/map7.jpg",
+    "radar": "images/maps/radar7.jpg",
+    "map_direction": 142,
+    "field": [
+     4407,
+     8192
+    ],
+    "generated": [
+     3,
+     9
+    ],
+    "unit_count": [
+     6,
+     18
+    ],
+    "totals": {
+     "defender_total_units": 18,
+     "intruder_total_units": 66,
+     "defender_total_ammo": 132,
+     "intruder_total_ammo": 324,
+     "defender_total_damage": -224,
+     "intruder_total_damage": -888
+    },
+    "should_end": true
+   }
+  ]
+ }
+]

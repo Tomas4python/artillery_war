@@ -13,32 +13,37 @@ The inception of "Artillery War" isn't just for entertainment; it serves as a be
 ---
 
 Version & Release:
-- Version: 1.01
-- Release Date: September 5, 2023
+- Version: 1.02
+- Release Date: not released yet (version 1.01: September 5, 2023)
 
 ---
 
 Technical Details:
-- Main Language: Python 3.11.1
+- Main Language: Python 3.11
 - Coding Assistance: Gratitude to ChatGPT 4.0 for its unwavering support and guidance in the coding journey.
+- Refactoring (version 1.02): The code was refactored with Claude Opus 5.5 by Anthropic. It was restructured and covered with tests, bugs were fixed, and Linux support, better performance and the military tablet design were added, while the game mathematics was kept unchanged. The only balance change, made at the author's request, reduces the war-long damage capacity by a third.
 
 ---
 
 Requirements:
-This game is forged on Windows with a range of modules and tools. Here’s a brief glimpse of the technological marvel behind the scenes:
-- Core Libraries: `tkinter`, `customtkinter`, `PIL`, `os`, `pygame`, `math`, `random`, `tempfile`, `ctypes`, `glob`, and more.
-- Application Modules: 
-  - `settings.py` - Game configurations and settings.
-  - `game_loop.py` - The heartbeat, the main loop of the game.
-  - `main.py` - The main loop of the app (tkinter), launch file.
-  - `setup.py` - Game initialization and setup routines.
-  - `map.py` - Visual representation of the battlefield.
-  - `radar.py` - Real-time tracking and targeting system.
-  - `units.py` - Definition of game units.
-  - `console.py` - A command interface for the player.
-  - `calculations.py` - Distance and damage computations.
-- Additional Documents: `about.txt` & `rules.txt` for comprehensive game info.
-Note. If display screen is scalled (e.g. to 125%), the game may not run in full screen mode or may contain distortions, the game was designed for screen scale 100% and resolution not less than 1920x1080.
+This game is forged on Windows and also runs on Linux, with a range of modules and tools. Here’s a brief glimpse of the technological marvel behind the scenes:
+- Core Libraries: `tkinter`, `customtkinter`, `PIL` (Pillow), `pygame`, `math`, `random`, `dataclasses`, `pathlib`, and `ctypes` (Windows only).
+- Application Modules (package `artillery_war`):
+  - `main.py` - Launch file.
+  - `config.py` - Game balance constants and player options.
+  - `core/campaign.py` - The war: resources between battles, maps, weather and the final verdict.
+  - `core/battle.py` - The heart of the game: turns, the computer's fire and battle outcomes.
+  - `core/ballistics.py` - Shell trajectory, wind and blast damage computations.
+  - `core/units.py` - Definition and deployment of game units.
+  - `ui/app.py` - Main window, menus and reports.
+  - `ui/controller.py` - Runs battles in the windows and plays out each turn.
+  - `ui/console.py` - The commander's field console.
+  - `ui/map_view.py` - Drone view of the battlefield.
+  - `ui/radar_view.py` - Real-time tracking and targeting system.
+  - `ui/tablet.py` - The military tablet look of the console and reports.
+  - `platform_utils.py` - Differences between Windows and Linux.
+- Additional Documents: `about.txt`, `rules.txt` and `changelog.txt` for comprehensive game info.
+Note. If display screen is scaled (e.g. to 125%), the game may not run in full screen mode or may contain distortions, the game was designed for screen scale 100% and resolution not less than 1920x1080.
 
 ---
 

@@ -1,2 +1,23 @@
+# Python bytecode
 __pycache__/
+*.py[cod]
+
+# Virtual environments
 venv/
+.venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# PyInstaller: build/ is scratch work, dist/ is the finished game folder
+build/
+dist/
+
+# Screenshots from tools/linux_smoke
+tools/linux_smoke/out/

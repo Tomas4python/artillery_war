@@ -1,0 +1,40 @@
+[project]
+name = "artillery-war"
+version = "1.02"
+description = "Artillery War, 21st century, Eastern Front, Europe - a strategic artillery game"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "customtkinter==5.2.2",
+    "darkdetect==0.8.0",
+    "packaging==24.1",
+    "Pillow==9.5.0",
+    "pygame==2.6.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["ignore:pkg_resources is deprecated:DeprecationWarning"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+extend-exclude = [".venv", "venv", "build", "dist"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "B", "I", "UP"]
+
+[tool.ruff.format]
+quote-style = "single"
+
+[tool.mypy]
+python_version = "3.11"
+files = ["artillery_war/core", "artillery_war/config.py", "artillery_war/paths.py", "artillery_war/platform_utils.py", "artillery_war/audio.py"]
+check_untyped_defs = true
+warn_unused_ignores = true
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = ["artillery_war.core.*", "artillery_war.config", "artillery_war.paths"]
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
