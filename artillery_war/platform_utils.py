@@ -4,13 +4,13 @@ The game is developed on Windows and also runs on Linux (X11). Everything that
 differs between them lives here so the rest of the code stays platform-neutral.
 """
 
-import platform
+import ctypes
+import sys
 
-IS_WINDOWS = platform.system() == 'Windows'
-IS_MAC = platform.system() == 'Darwin'
-
-if IS_WINDOWS:
-    import ctypes
+# Windows-only calls are guarded with `sys.platform == 'win32'` written out in full: type
+# checkers understand that test (and skip the guarded code on other platforms), not a flag.
+IS_WINDOWS = sys.platform == 'win32'
+IS_MAC = sys.platform == 'darwin'
 
 LOGPIXELSX = 88  # GetDeviceCaps index: horizontal pixels per logical inch
 _icon_images: list[object] = []  # keep window icons alive (Tk does not hold a Python reference)
@@ -18,7 +18,7 @@ _icon_images: list[object] = []  # keep window icons alive (Tk does not hold a P
 
 def enable_dpi_awareness():
     """Windows: draw at physical pixels instead of letting the system blur-scale the window."""
-    if IS_WINDOWS:
+    if sys.platform == 'win32':
         try:
             ctypes.windll.shcore.SetProcessDpiAwareness(2)  # per-monitor aware
         except (AttributeError, OSError):
@@ -27,7 +27,7 @@ def enable_dpi_awareness():
 
 def desktop_scaling():
     """Desktop scaling factor, e.g. 1.25 when Windows is set to 125%; 1.0 elsewhere."""
-    if not IS_WINDOWS:
+    if sys.platform != 'win32':
         return 1.0
     user32 = ctypes.windll.user32
     hdc = user32.GetDC(0)
