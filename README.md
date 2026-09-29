@@ -7,7 +7,7 @@ you into the heart of fierce artillery battles on the Eastern Front.
 ## Requirements
 - Best on **Windows 11**; also runs on **Linux** (X11 desktop, see [Linux](#linux))
 - **Python**: 3.11
-- **Libraries** (installed by `requirements.txt`): customtkinter 5.2.2, Pillow 9.5.0, pygame 2.6.0
+- **Libraries** (installed by `requirements.txt`): customtkinter 5.2.2, Pillow 12.3.0, pygame 2.6.0
 
 Note: the game was designed for screen scale 100% and a resolution of at least 1920x1080. If the display is scaled
 (e.g. to 125%), the game may not run in full screen or may show distortions.
